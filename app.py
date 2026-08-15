@@ -1,5 +1,5 @@
-from django.shortcuts import render
-from flask import Flask,request,app,jsonify,url_for,render_template
+
+from flask import Flask,request,jsonify,url_for,render_template
 import numpy as np
 import pandas as pd
 import pickle
